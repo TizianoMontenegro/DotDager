@@ -9,6 +9,10 @@ function App() {
     <div className="wrapper">
       <HeaderComponent />
       <MainComponent />
+      <section className="lumberjack">
+        <h3 className='lumberjack__title'>Lumberjack</h3>
+        <iframe className='lumberjack_game' src="https://tbot.xyz/lumber/" height="700" width="400" title="Lumberjack"></iframe>
+      </section>
       <FooterComponent />
     </div>
   )

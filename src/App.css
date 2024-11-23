@@ -2,3 +2,15 @@
     max-width: 1240px;
     margin: 0 auto;
 }
+
+.lumberjack {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.lumberjack__title {
+    text-align: center;
+    color: #fff;
+    font-size: 2em;
+}
+/* .lumberjack__game {} */
