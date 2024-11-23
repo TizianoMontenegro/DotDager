@@ -11,7 +11,7 @@ const MainComponent = () => {
           </div>
           <div className="main__section--content">
             <h3 className="main__subtitle">Programación</h3>
-            <p className="main__description">Programo en C#, si necesitas cualquier cosa contactame (ojito!!). Destrozo tu código para hacertelo de nuevo (;D).</p>
+            <p className="main__description">Programo en C#, si necesitas cualquier cosa contactame ;). Una frase que me gusta usar cuando estoy codeando es "si funciona no lo toques, y si ya lo tocaste salí de ahí".</p>
           </div>
         </section>
 
@@ -42,6 +42,16 @@ const MainComponent = () => {
           </div>
           <div className="main__section--image">
             <img src="/my-guitar.jfif" alt="foto pene" />
+          </div>
+        </section>
+        
+        <section className="main__section">
+          <div className="main__section--image">
+            <img src="/filosofo.png" alt="foto pene" />
+          </div>
+          <div className="main__section--content">
+            <h3 className="main__subtitle">Solo Sé Que No Sé Nada</h3>
+            <p className="main__description">Me considero una persona bastante pensante en mi opinión y generalmeente seria. Me sorprende cómo es que funciona el mundo, saber quién soy, dónde estoy y a dónde llegar para alcanzar mis objetivos además de ser el mejor en el LumberJack.</p>
           </div>
         </section>
       </article>
