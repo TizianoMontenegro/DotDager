@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&display=swap');
+:root {
+  --font-1: "Bebas Neue" ,Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+  --font-2: "Roboto Condensed" ,Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
+
+  --blue1: #010624;
+  --blue2: #023244;
+  --blue3: #014C55;
+}
+* {
+  box-sizing: border-box;
+  font-family: "Bebas Neue";
+}
+body {
+  margin: 0;
+  background-color: #010624;
+  /* background-image: url("/public/page.background.jfif");
+  background-size: 200px; */
+}
